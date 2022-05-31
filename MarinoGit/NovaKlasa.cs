@@ -9,6 +9,7 @@ namespace MarinoGit
         static void Main(string[] args)
         {
             Console.WriteLine("nova");
+            Console.WriteLine("promjena");
         }
     }
 }
