@@ -11,6 +11,7 @@ namespace MarinoGit
             Console.WriteLine("OK");
             Console.WriteLine("Novo");
             Console.WriteLine("Suradnik");
+            Console.WriteLine("eto me");
         }
     }
 }
